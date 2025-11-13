@@ -96,6 +96,6 @@ Transformers -> GPT2 -> BERT -> LLaMA2 -> LLaMA3 -> Qwen3 -> Gemma3 -> Deepseek
 
 SigLIP
   
-
+NOT: Büyük Dil Modelleri klasöründeki bazı dosyaları Preview kısmında Invalid gösterebilir. Dosyaları indirdiğinizde notebookları görüntüleyebilirsiniz.
 
 
